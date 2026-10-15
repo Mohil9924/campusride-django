@@ -1,4 +1,4 @@
-# CampusRide 🚗
+# CampusRide
 
 A Django web application that connects college students who need rides with students who have empty seats.
 
